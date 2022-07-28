@@ -116,14 +116,14 @@ const dataportfolio = [{
         link: "https://github.com/ManishKumar180/cov19_tracker",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "",
         desctiption: "Personal Blog made using NextJs and Tailwind  ",
         link: "https://github.com/ManishKumar180/mkdev",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "",
+        desctiption: "Crypto coins stats Tracker using React and Real Apis.",
+        link: "https://github.com/ManishKumar180/cryptotracker",
     },
     
 ];
