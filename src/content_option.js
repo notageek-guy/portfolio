@@ -101,7 +101,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://mkdev.vercel.app/_next/image?url=%2Fstatic%2Fimages%2Fprojects%2Fcovid.png&w=640&q=75/?grayscale",
+	img: "https://user-images.githubusercontent.com/52111635/129484542-a779c119-d63f-4a3f-b20d-3f734e11d782.PNG",
         desctiption: "Web App to visualize sorting Algorithms made using ReactJs",
         link: "https://github.com/ManishKumar180/Dsa_Sorting_Visualizer",
     },
